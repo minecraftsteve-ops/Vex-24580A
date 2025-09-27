@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Users/steven/Desktop/Vex-24580A/include",
+        "/Users/steven/Library/Application Support/Cursor/User/globalStorage/sigbots.pros/install/pros-toolchain-macos/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1",
+        "/Users/steven/Library/Application Support/Cursor/User/globalStorage/sigbots.pros/install/pros-toolchain-macos/bin/../lib/gcc/arm-none-eabi/13.3.1/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "_POSIX_THREADS",
+        "_UNIX98_THREAD_MUTEX_ATTRIBUTES",
+        "_POSIX_TIMERS",
+        "_POSIX_MONOTONIC_CLOCK",
+        "_PROS_INCLUDE_LIBLVGL_LLEMU_H",
+        "_PROS_INCLUDE_LIBLVGL_LLEMU_HPP"
+      ],
+      "compilerPath": "/Users/steven/Library/Application Support/Cursor/User/globalStorage/sigbots.pros/install/pros-toolchain-macos/bin/arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++23",
+      "intelliSenseMode": "gcc-arm",
+      "macFrameworkPath": [
+        "/System/Library/Frameworks"
+      ],
+      "browse": {
+        "path": [
+          "/Users/steven/Desktop/Vex-24580A"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
